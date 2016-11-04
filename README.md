@@ -1,6 +1,8 @@
 Photogrammetric model of the Molossian Hound/ Jennings Dog
 ==========================================================
 
+[![DOI](https://zenodo.org/badge/59012184.svg)](https://zenodo.org/badge/latestdoi/59012184)
+
 The Jennings Dog
 ================
 
